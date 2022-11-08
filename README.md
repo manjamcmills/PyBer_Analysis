@@ -51,7 +51,7 @@ The summary DataFrame  and highlighted the following:
 
 
 ## Summary
-Based on the results, I would recommend  the following: <br>(1) I think it would be beneficial for Pyber to try recruiting more drivers in suburban and rural cities. <br>(2) I also think it might be worthwhile to lower fare prices in suburban and rural cities to see if demand increases. <br>(3) Lastly, I would try increasing fares in urban cities to see how this affects overall profit. 
+Based on the results, I would recommend  the following: <br>&nbsp;&nbsp;(1) I think it would be beneficial for Pyber to try recruiting more drivers in suburban and rural cities. <br>&nbsp;&nbsp;(2) I also think it might be worthwhile to lower fare prices in suburban and rural cities to see if demand increases. <br>&nbsp;&nbsp;(3) Lastly, I would try increasing fares in urban cities to see how this affects overall profit. 
 
 
 

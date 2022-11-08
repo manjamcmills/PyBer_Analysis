@@ -7,7 +7,7 @@ The purpose of this analysis was to create a summary DataFrame of the ride-shari
 
 The summary DataFrame  and highlighted the following:
 
-Total Rides:
+<b>Total Rides:<b>
 
 &nbsp;&nbsp;•	Urban cities had the most total rides, with 68.4% of the total rides.
 
@@ -15,7 +15,7 @@ Total Rides:
 
 &nbsp;&nbsp;•	Rural cities had the least total rides, with only 5.3% of the total rides.
 
-Total Drivers:
+<b>Total Drivers:<b>
 
 &nbsp;&nbsp;•	Urban cities had the greatest number of  drivers, with 80.9% of the total drivers.
 
@@ -23,7 +23,7 @@ Total Drivers:
 
 &nbsp;&nbsp;•	Rural cities had the least number of drivers, with only 2.6% of the total drivers.
 
-Total Fares:
+<b>Total Fares:<b>
 
 &nbsp;&nbsp;•	Urban cities had the most total fares, with 62.7% of the total fares
 
@@ -33,7 +33,7 @@ Total Fares:
 
 ![](Analysis/PyBer_fare_summary.png)
 
-Average Fare per Ride:
+<b>Average Fare per Ride:<b>
 
 &nbsp;&nbsp;•	Rural cities had the highest average fare per ride at $34.62.
 
@@ -41,7 +41,7 @@ Average Fare per Ride:
 
 &nbsp;&nbsp;•	Urban cities had the lowest average fare per ride at $24.53.
 
-Average Fare per Driver:
+<b>Average Fare per Driver:<b>
 
 &nbsp;&nbsp;•	Rural cities had highest average fare per driver at $55.49.
 
